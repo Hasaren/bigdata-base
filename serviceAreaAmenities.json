@@ -1,0 +1,7225 @@
+{ 
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00109" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-931-6901"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "대천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00185" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-759-3206"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|던킨도너츠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00090" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "053-614-2436"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00009" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-339-3663"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "용인"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "던킨도너츠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00035" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-260-8035"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "던킨도너츠|스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00029" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "쇠고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-762-8030"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "치악"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00139" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-642-1151"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "홍성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00071" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "뽀글이돼지찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "053-852-8651"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "평사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "파리바게트"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00169" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "닭가슴살 퓨전 포도밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031)674-4406"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성맞춤"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|전철우랭면|코바코"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00122" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "고창추어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-561-6323"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고창고인돌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00015" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-353-8140"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "화성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|로티보이"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00089" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "대구육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "053-615-0337"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "현풍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00141" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054)338-0037"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00061" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물짬뽕밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-394-9990"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "백양사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|BBQ올리브돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00174" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-334-0094"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "예산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00079" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-853-4370"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안동"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00225" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "070-4325-8801"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹차"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00159" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "능이버섯국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-531-1982"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "화서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00056" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "개똥쑥강된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-362-8300"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "곡성기차마을"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|뚜레쥬르|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00051" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "복분자낙지연포탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-532-2373"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "정읍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00102" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 동태탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "042-934-2442"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "신탄진"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00131" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯 닭갈비 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-264-0500"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00098" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한방우(牛)불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-973-5970"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "산청"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00001" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "말죽거리소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "02-578-3372"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서울만"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "뉴욕핫도그|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00112" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "단양마늘 약초 갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-423-5401"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "단양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00191" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우불고기철판비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-227-4334"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "이서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00149" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-731-8194"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "원주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00081" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "의성마늘순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-383-6114"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "군위"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00091" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "비빔된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-761-2820"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "문산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "너츠덕스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00129" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-963-8001"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00186" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "영양굴국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-582-2191"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00119" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "울외비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-453-0402"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "군산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00088" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-383-6145"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "통도사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00008" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "매실 제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-637-0987"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "이천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00034" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "병천 순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-552-4560"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "천안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|BBQ치킨|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00121" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-482-6011"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "선산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00014" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-353-8143"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "화성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "롯데리아|까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00070" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "대추영양갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "053-852-5243"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "경산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00028" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "소고기 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-762-9234"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "치악"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00080" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "안동간고등어정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-853-4061"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안동"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00142" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "청통한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-337-5009"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "청통"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00047" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한방닭곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-731-8097"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "옥천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00163" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우소머리국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-433-1523"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "김천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "던킨도너츠"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00060" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "애호박찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-394-5177"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "백양사"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00132" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "정통수제 마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-384-0144"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "양산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠|스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00050" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-588-7868"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "입장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|베스킨라빈스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00101" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-334-5100"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "평창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00078" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-751-6890"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "건천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00173" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯닭계장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-834-5600"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "부여백제"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "코바코|뚜레쥬르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00111" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "곤드레열무돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-648-8850"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00224" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹돈애호박 고추장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "070-4325-8807"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "보성녹차"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00099" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "영양더덕산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-973-9036"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "산청"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00187" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-582-5470"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|BBQ치킨"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00077" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기 모듬버섯전골"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-751-7401"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "건천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00110" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "알밥우동정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-647-9970"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00197" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "불고기백반정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-782-1135"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "전주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00118" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "전주콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-453-2868"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "군산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00044" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "수제순살돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-836-5168"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "여산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00162" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "진안인삼오리고기덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-432-6351"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진안마이산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "코바코|뚜레쥬르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00143" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "053-853-1002"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "와촌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00033" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "병천순대국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-551-2480"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "천안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "롯데리아|던킨도너츠|스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00124" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우우거지국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-323-3751"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00063" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-363-2766"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "곡성기차마을"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00013" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-734-7471"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "문막"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|뉴욕핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00104" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼신촌설렁탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-754-9200"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼랜드"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|코바코"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00083" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-313-2610"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "장유"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "냉정"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00003" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "제주고사리육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-286-5001"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "기흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|던킨도너츠"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00096" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-854-3547"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "사천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠|BBQ치킨"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00058" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산흑돼지불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063)636-7191"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00117" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-688-8814"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00144" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-832-7966"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "괴산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "BBQ치킨"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00032" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부 청국장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-260-1053"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "옥산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "롯데리아|전철우랭면"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00062" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "꼬막돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-754-2432"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "주암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00045" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥알밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-836-5168"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "여산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00161" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-432-1380"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진안마이산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "코바코|뚜레쥬르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "익산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00138" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-642-1172"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "홍성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00123" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "고창장어탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-561-6313"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고창고인돌"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00190" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "완주한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-236-2592"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "이서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00012" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "수제돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-882-3120"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "여주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|도미노피자|베스킨라빈스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00082" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "국산콩된장뚝배기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-383-7114"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "군위"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00158" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "새송이 돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-931-5741"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "남성주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00097" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "새싹삼(돌솥)힐링비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-854-3134"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "사천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠|BBQ치킨"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00002" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "대나무잎영양맑은곰탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-262-3168"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "죽전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "뚜레쥬르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00103" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-731-8521"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "옥천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00059" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산수제마늘돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063)636-7195"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "지리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00175" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "예산사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-335-0020"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "예산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00130" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "백연밥상"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-963-8001"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00195" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-544-1466"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "속리산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "던킨도너츠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00145" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "샐러드 돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-832-6594"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "괴산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00116" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "서산어리굴젓백반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-688-7714"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00085" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "영양돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-342-3236"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00005" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-655-0531"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|던킨도너츠|뉴욕핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00094" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "명품 연근 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-587-9656"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "칠서"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "BBQ치킨"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00140" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054)338-0062"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "포항"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00039" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "엄나무닭개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-217-1477"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00011" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "여주쌀 잔치국수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-882-2900"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "여주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "롯데리아|엔제리너스|전철우랭면"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00165" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "강된장보리돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031)673-3822"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성맞춤"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|전철우랭면|코바코"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "평택"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00042" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부찌게"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-734-5250"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "벌곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대전"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00019" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우 떡더덕스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-342-4231"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|BBQ치킨"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00126" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "매운낙지정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-237-1700"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "뉴욕핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00150" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-952-9700"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00025" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "황태국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-534-6631"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "동해"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "동해"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00135" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "시래기 돌솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-534-1700"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "옥계"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스|BBQ올리브돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "속초"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00155" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "함평한우버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-324-8840"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평나비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00231" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "더덕 산채비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-630-0001"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "마장복합"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00170" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-854-6060"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "청원"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00055" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "콩나물국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-754-4980"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "주암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00106" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "행담도 집밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-358-0702"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "행담도"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|전철우랭면"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00160" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-933-7105"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "남성주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00146" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물영양솥밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-554-1655"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "문경"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00196" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "다슬기버섯된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-782-1154"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황전"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "광양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "파리바게트"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00115" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-353-5100"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "덕유산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|던킨도너츠|BBQ치킨"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00084" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-342-3959"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "진영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|나뚜르|로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00010" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥된장비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-339-3664"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "용인"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|던킨도너츠"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00004" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "안성국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-611-5794"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "안성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|던킨도너츠|BBQ치킨"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00038" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "뚝배기 닭갈비덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-217-8303"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00125" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "함평천지한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-323-3641"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00043" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "버섯육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-732-7694"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "벌곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "논산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00136" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-644-4760"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "구정"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "속초"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00074" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-943-0992"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "거창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00024" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-731-8481"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "문막"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|뉴욕핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "강릉"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00018" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성한우스테이크"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-342-4200"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "횡성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00054" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "청매실재첩비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-772-7986"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르|로띠번"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00105" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼영양가마솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-751-2892"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "인삼랜드"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00156" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-324-8858"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "함평나비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "무안"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00064" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-755-4982"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00068" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "지례흑돼지 고추장불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-430-2000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "추풍령"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|파리바게트"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00067" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 칼제비"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-439-3187"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "추풍령"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00030" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "순두부찌개정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-557-4000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "망향"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "도미노피자"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00120" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "낙지덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-482-6031"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "선산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00193" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "오삼불고기정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-644-6116"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "광양"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00114" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "무진장 흑돼지 치즈돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-353-4200"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "덕유산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|던킨도너츠|코바코"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00007" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "곤지암 소머리 국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-638-1117"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "이천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "BBQ치킨"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00037" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "도리뱅뱅 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-731-2233"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "금강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "롯데리아"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00100" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "올리브 등심돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-333-6131"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "평창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스|BBQ올리브돈까스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00147" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "오미자 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-554-1610"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "문경"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "할리스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00133" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "고구마 치즈 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-977-6901"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "동명"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00040" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "오리 묵은지 치즈 가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-878-6403"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00128" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "얼큰 새뱅이 해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-857-9229"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "충주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "양평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|뉴욕핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00027" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "한우국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-435-1201"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "홍천강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00152" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055)674-0494"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페띠아모"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "하남"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00153" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-674-7028"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "고성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00233" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "표고버섯 우렁된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043)881-0001"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "금왕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00073" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "전주비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-943-9534"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "거창"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "대구"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "나뚜르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00053" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "재첩국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "061-772-7993"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "섬진강"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "BBQ올리브돈까스|캔모아"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00172" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "제육돌솥비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-834-5600"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "부여백제"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "코바코|뚜레쥬르"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00048" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "묵은지 고등어조림"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-742-7633"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황간"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00108" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "돌솥굴밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-931-6801"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "대천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "시흥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00069" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "평양온반"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-975-1883"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "칠곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|뚜레쥬르"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00113" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "수제 등심 돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-421-1671"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "단양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "춘천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "로띠번"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00194" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "임실 치즈 철판 비빔밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-644-5115"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "오수"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "전주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "스태프핫도그"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00148" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "황태해장국"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "033-731-4291"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "원주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00006" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "마방장터국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-791-4200"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "하남(만남)"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "뉴욕핫도그|BBQ올리브돈까스"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00036" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암왕갈비탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-269-0850"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "죽암"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "던킨도너츠|BBQ치킨"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00086" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "사골 육개장"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|샤워실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "052-263-6153"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "언양"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "엔제리너스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "서울"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00016" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "창녕양파제육덮밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "055-521-2978"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "영산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00184" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "수제왕돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-435-0211"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "김천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스|파리바게트|던킨도너츠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00134" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "짜글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-977-6921"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "동명"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00127" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "충주 사과돈가스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-857-9339"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "충주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "BBQ치킨|뉴욕핫도그"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "마산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00232" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "해물순두부"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-877-7000"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "금왕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "평택"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00072" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "찌글이 된장찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-975-2277"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "칠곡"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "까페베네|파리바게트"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00154" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "덕평소고기국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물|약국"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "031-634-9200"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "덕평"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "파리바게트|던킨도너츠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "인천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00151" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "매생이탕"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-952-5757"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "서천"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "목포"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00041" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "우거지사골국밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-878-6410"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "음성"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "통영"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "전철우랭면"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00171" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "베이컨 김치 볶음밥"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "041-854-0050"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "공주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "상주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00107" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "흑돼지 김치찌개"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|수면실|샤워실|세탁실"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "054-748-3195"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "O"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "경주"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "시젠"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00052" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "산외한우뚝배기불고기"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "063-532-0510"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "정읍"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : "베스킨라빈스"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "순천"
+    }
+     ]
+  }
+   ,
+  "http://data.ex.co.kr:80/link/serviceAreaAmenities/B00049" : { 
+    "http://data.ex.co.kr:80/link/def/repFoods" : [ { 
+      "type" : "literal" ,
+      "value" : "갈치조림 정식"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/amenities" : [ { 
+      "type" : "literal" ,
+      "value" : "수유실|내고장특산물"
+    }
+     ] ,
+    "http://schema.org/telephone" : [ { 
+      "type" : "literal" ,
+      "value" : "043-742-5805"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/grageYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/truckYn" : [ { 
+      "type" : "literal" ,
+      "value" : "X"
+    }
+     ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { 
+      "type" : "literal" ,
+      "value" : "황간"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/direction" : [ { 
+      "type" : "literal" ,
+      "value" : "부산"
+    }
+     ] ,
+    "http://data.ex.co.kr:80/link/def/brand" : [ { 
+      "type" : "literal" ,
+      "value" : ""
+    }
+     ]
+  }
+}
