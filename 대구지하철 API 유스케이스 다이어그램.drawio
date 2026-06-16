@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="페이지-1" id="1L1F52in1V9dMRRJT-nu">
     <mxGraphModel dx="808" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,95 @@
         </mxCell>
         <mxCell id="gYcnck_48QhjmYL5WKld-8" parent="efHTmrXGrd1lzIXLipoa-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry height="10" width="60" x="190" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8Uv_M8y6IsLnQZ8vnn8E" name="페이지-2">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-24" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="시작" vertex="1">
+          <mxGeometry height="40" width="100" x="364" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-25" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="공공데이터 포털 API URL준비" vertex="1">
+          <mxGeometry height="50" width="216" x="306" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="파이썬 라이브러리 - requests.get() 호출&lt;div&gt;API 응답 수신&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="216" x="306" y="229" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-15" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-18" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="응답 상태&amp;nbsp;&lt;div&gt;200 OK?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="364" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-26" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="json -&amp;gt; pandas 이용&lt;div&gt;DataFrame 변환&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="344" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-28" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="전처리 작업 - 결측치 처리, 이상치 삭제" vertex="1">
+          <mxGeometry height="37" width="210" x="309" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-27" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="역 ID, 측정시간, 역이름, 유동인구수" vertex="1">
+          <mxGeometry height="40" width="209" x="309.5" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-29" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="seabom, matplotlib 사용하여 차트 만들기" vertex="1">
+          <mxGeometry height="37" width="239" x="294.25" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-30" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Er7GFA9NWeaWSgiQg5Yz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="HTML 이용하여 대시보드 만들기&lt;div&gt;- streamlit 사용&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="239" x="294.75" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="분석 결과 pdt로 내보내기 -&amp;nbsp; 라이브러리 사용" vertex="1">
+          <mxGeometry height="40" width="255.5" x="286.25" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="종료" vertex="1">
+          <mxGeometry height="60" width="100" x="364.25" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="오류 메시지 출력&lt;div&gt;파이썬 예외처리 이용&lt;/div&gt;&lt;div&gt;(try~ excep)&lt;/div&gt;&lt;div&gt;재시도 안내&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="196" x="90" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="종료" vertex="1">
+          <mxGeometry height="60" width="100" x="138" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-16" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Er7GFA9NWeaWSgiQg5Yz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-17" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Er7GFA9NWeaWSgiQg5Yz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="404" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="304" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Er7GFA9NWeaWSgiQg5Yz-32" edge="1" parent="1" source="Er7GFA9NWeaWSgiQg5Yz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="Er7GFA9NWeaWSgiQg5Yz-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
