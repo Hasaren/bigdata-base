@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="1L1F52in1V9dMRRJT-nu">
-    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="efHTmrXGrd1lzIXLipoa-48" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="390" width="560" x="120" y="50" as="geometry" />
+          <mxGeometry height="390" width="560" x="120" y="60" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-23" parent="efHTmrXGrd1lzIXLipoa-48" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="390" width="390" x="110" as="geometry" />
+          <mxGeometry height="390" width="440" x="60" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-14" parent="efHTmrXGrd1lzIXLipoa-48" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="시민" vertex="1">
-          <mxGeometry height="60" width="30" y="167" as="geometry" />
+          <mxGeometry height="60" width="30" x="-40" y="167" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-35" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="efHTmrXGrd1lzIXLipoa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="efHTmrXGrd1lzIXLipoa-31">
           <mxGeometry relative="1" as="geometry" />
@@ -32,39 +32,39 @@
           <mxGeometry height="60" width="30" x="530" y="280" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-22" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="역 검색" vertex="1">
-          <mxGeometry height="40" width="140" x="130" y="20" as="geometry" />
+          <mxGeometry height="40" width="140" x="90" y="20" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-24" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="혼잡도 조회" vertex="1">
-          <mxGeometry height="40" width="140" x="130" y="103" as="geometry" />
+          <mxGeometry height="40" width="140" x="90" y="103" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-25" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="시간대별 차트" vertex="1">
-          <mxGeometry height="40" width="140" x="130" y="187" as="geometry" />
+          <mxGeometry height="40" width="140" x="90" y="187" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-26" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="환승역" vertex="1">
-          <mxGeometry height="40" width="140" x="130" y="270" as="geometry" />
+          <mxGeometry height="40" width="140" x="90" y="270" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-27" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.023;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" target="efHTmrXGrd1lzIXLipoa-22" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="40" y="160" as="sourcePoint" />
-            <mxPoint x="370" y="200" as="targetPoint" />
+            <mxPoint y="160" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-28" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="efHTmrXGrd1lzIXLipoa-24" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="40" y="180" as="sourcePoint" />
-            <mxPoint x="183" y="160" as="targetPoint" />
+            <mxPoint y="180" as="sourcePoint" />
+            <mxPoint x="143" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-29" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="efHTmrXGrd1lzIXLipoa-25" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="40" y="200" as="sourcePoint" />
-            <mxPoint x="183" y="260" as="targetPoint" />
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="143" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-30" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="efHTmrXGrd1lzIXLipoa-26" value="">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="40" y="220" as="sourcePoint" />
-            <mxPoint x="193" y="290" as="targetPoint" />
+            <mxPoint y="220" as="sourcePoint" />
+            <mxPoint x="153" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-31" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="데이터 수집 설정" vertex="1">
@@ -73,11 +73,32 @@
         <mxCell id="efHTmrXGrd1lzIXLipoa-32" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="데이터 관리" vertex="1">
           <mxGeometry height="40" width="140" x="310" y="93" as="geometry" />
         </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-3" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="efHTmrXGrd1lzIXLipoa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="gYcnck_48QhjmYL5WKld-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-33" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="실시간 데이터 제공" vertex="1">
           <mxGeometry height="40" width="140" x="310" y="290" as="geometry" />
         </mxCell>
         <mxCell id="efHTmrXGrd1lzIXLipoa-34" parent="efHTmrXGrd1lzIXLipoa-48" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="데이터 통계" vertex="1">
           <mxGeometry height="40" width="140" x="310" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-4" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="gYcnck_48QhjmYL5WKld-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="efHTmrXGrd1lzIXLipoa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-5" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="gYcnck_48QhjmYL5WKld-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="efHTmrXGrd1lzIXLipoa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-1" parent="efHTmrXGrd1lzIXLipoa-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-6" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="efHTmrXGrd1lzIXLipoa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="gYcnck_48QhjmYL5WKld-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-7" edge="1" parent="efHTmrXGrd1lzIXLipoa-48" source="efHTmrXGrd1lzIXLipoa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.978;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="efHTmrXGrd1lzIXLipoa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYcnck_48QhjmYL5WKld-8" parent="efHTmrXGrd1lzIXLipoa-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="10" width="60" x="190" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
