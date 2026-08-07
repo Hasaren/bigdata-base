@@ -27,5 +27,5 @@ def load_subway(path: str='./input/subway_long.csv') -> pd.DataFrame:
 
     # 요일 코드 컬럼을 정렬 가능한 순서형으로 바꾼다.
     # 그룹이나 그래프 등 작업시 항상 월~일 순서로 나오게 하기 위한 작업(안하면 데이터 등장 순서대로 정렬된다.)
-    df['요일코드'] = pd.Categorical(df['요일코드'], categories=WEEKDAY_ORDER)
+    df['요일코드'] = pd.Categorical(df['요일코드'], categories=WEEKDAY_ORDER, ordered=True)
     return df
